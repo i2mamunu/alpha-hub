@@ -64,4 +64,8 @@ to {
     transform: translateX(30%); /* Add this line to move the images to the left */
   }
 }
-
+/* Responsive image size */
+.mySlides img {
+  max-width: 100%;
+  height: auto;
+}
